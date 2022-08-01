@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.aa421065.css",
+    "main.js": "/portfolio/static/js/main.404222b6.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/movie5.png": "/portfolio/static/media/movie5.8cfda4dbe9d5644ec181.png",
+    "static/media/galary3.png": "/portfolio/static/media/galary3.ecc34516051178b193d1.png",
+    "static/media/geektune1.png": "/portfolio/static/media/geektune1.d9da003467f9d012fbf6.png",
+    "static/media/movie6.png": "/portfolio/static/media/movie6.ac8212464a84ffcba415.png",
+    "static/media/geekconnect2.png": "/portfolio/static/media/geekconnect2.0be8696b436b25de94c1.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.2989050c8f7f2ecb9303.png",
+    "static/media/Adobe.pdf": "/portfolio/static/media/Adobe.a8a10a48d280fad2c287.pdf",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/memory4.png": "/portfolio/static/media/memory4.42369b07310ec58ed55a.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.aa421065.css.map": "/portfolio/static/css/main.aa421065.css.map",
+    "main.404222b6.js.map": "/portfolio/static/js/main.404222b6.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa421065.css",
+    "static/js/main.404222b6.js"
+  ]
+}
