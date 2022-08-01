@@ -16,7 +16,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Nilanjan Mandal]((https://github.com/6Neel9). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Nilanjan Mandal](https://github.com/6Neel9/portfolio). Thanks!
 
 ## Built With
 
